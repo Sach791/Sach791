@@ -30,7 +30,7 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://github.com/Sach791/Sach791/blob/main/Sachin_Resume.pdf">
+  href="https://raw.githubusercontent.com/Sach791/Sach791/main/Sachin_Resume.pdf"
     <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 
@@ -46,7 +46,7 @@
 
 - 🎓 Computer Science student passionate about software development  
 - 💻 Strong in Data Structures & Algorithms using Java  
-- 🧠 Good understanding of OOP, OS, DBMS, and Computer Networks  
+- 🧠 Strong understanding of OOP, Operating Systems, DBMS, and Computer Networks 
 - ⚡ Skilled in SQL and database handling  
 - 🚀 Interested in Java Backend Development and progressing towards Full Stack Development 
 
