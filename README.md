@@ -29,10 +29,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <!-- Resume -->
-  href="https://raw.githubusercontent.com/Sach791/Sach791/main/Sachin_Resume.pdf"
-    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
+ <!-- Resume -->
+<a href="https://raw.githubusercontent.com/Sach791/Sach791/main/Sachin_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 
 </p>
 
