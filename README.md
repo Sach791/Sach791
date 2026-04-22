@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/Email-sachinawbay%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <!-- Phone -->
-  <a href="tel:+916363800529">
-    <img src="https://img.shields.io/badge/Phone-+91--6363800529-green?style=for-the-badge&logo=phone&logoColor=white">
-  </a>
+<!-- Phone -->
+<a href="tel:916363800529">
+  <img src="https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=phone&logoColor=white">
+</a>
 
   <!-- GitHub -->
   <a href="https://github.com/Sach791">
