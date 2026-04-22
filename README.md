@@ -9,9 +9,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
+
   <!-- Email -->
   <a href="mailto:sachinawbay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-sachinawbay%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <!-- Phone -->
@@ -20,20 +21,22 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/[YOUR_USERNAME](https://github.com/Sach791)">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Sach791">
+    <img src="https://img.shields.io/badge/GitHub-Sach791-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <!-- LinkedIn (add later) -->
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/sachin-b373a3262/)">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sachin-b373a3262/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <!-- Resume -->
-  <a href="https://github.com/Sach791/Sach791/blob/main/Sachin_Resume.pdf" target="_blank">
+  <a href="https://github.com/Sach791/Sach791/blob/main/Sachin_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
+
 </p>
+
 
 ---
 
