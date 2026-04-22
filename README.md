@@ -82,7 +82,7 @@
 - Applied data preprocessing and feature engineering  
 - UI built using HTML, CSS, JavaScript  
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/crop-recommendation-system](https://github.com/Sach791/CROP-AND-FERTILISER.git))
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sach791/CROP-AND-FERTILISER)
 
 ---
 
@@ -91,7 +91,7 @@
 - Implemented Bubble Sort, Merge Sort, Binary Search  
 - Step-by-step visualization of algorithm execution  
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/algorithm-visualizer](https://github.com/Sach791/Algo-visualization.git))
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sach791/Algo-visualization)
 
 ---
 
@@ -100,7 +100,7 @@
 - Supports CRUD operations  
 - Efficient management of books and members  
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/library-management-system](https://github.com/Sach791/Library-Management-System.git)) 
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Sach791/Library-Management-System)
 
 ---
 
