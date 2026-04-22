@@ -29,8 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
- <!-- Resume -->
-<a href="https://raw.githubusercontent.com/Sach791/Sach791/main/Sachin_Resume.pdf">
+<a href="https://raw.githubusercontent.com/Sach791/Sach791/main/Sachin%20Resume%202026.pdf">
   <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
