@@ -5,29 +5,38 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Enthusiast;Clean+Code+Advocate&center=true&width=500&height=45">
 </p>
 
----
 
 ## 📫 Connect With Me
 
 <p align="center">
+  <!-- Email -->
   <a href="mailto:sachinawbay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sachinawbay%40gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
-<p align="center">
-  📧 sachinawbay@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp;
-  📱 +91-6363800529 &nbsp;&nbsp; | &nbsp;&nbsp;
-  🔗 https://linkedin.com/in/YOUR_LINKEDIN
+  <!-- Phone -->
+  <a href="tel:+916363800529">
+    <img src="https://img.shields.io/badge/Phone-+91--6363800529-green?style=for-the-badge&logo=phone&logoColor=white">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/[YOUR_USERNAME](https://github.com/Sach791)">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <!-- LinkedIn (add later) -->
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/sachin-b373a3262/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <!-- Resume -->
+  <a href="https://github.com/Sach791/Sach791/blob/main/Sachin_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -37,7 +46,7 @@
 - 💻 Strong in Data Structures & Algorithms using Java  
 - 🧠 Good understanding of OOP, OS, DBMS, and Computer Networks  
 - ⚡ Skilled in SQL and database handling  
-- 🚀 Interested in Full Stack Development  
+- 🚀 Interested in Java Backend Development and progressing towards Full Stack Development 
 
 ---
 
@@ -73,6 +82,8 @@
 - Applied data preprocessing and feature engineering  
 - UI built using HTML, CSS, JavaScript  
 
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/crop-recommendation-system](https://github.com/Sach791/CROP-AND-FERTILISER.git))
+
 ---
 
 ### 📊 Algorithm Visualizer
@@ -80,12 +91,16 @@
 - Implemented Bubble Sort, Merge Sort, Binary Search  
 - Step-by-step visualization of algorithm execution  
 
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/algorithm-visualizer](https://github.com/Sach791/Algo-visualization.git))
+
 ---
 
 ### 📚 Library Management System
 - Built using Java, MySQL, JDBC  
 - Supports CRUD operations  
 - Efficient management of books and members  
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME/library-management-system](https://github.com/Sach791/Library-Management-System.git)) 
 
 ---
 
