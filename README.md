@@ -87,19 +87,19 @@ Aspiring Software Engineer | Java Developer | Problem Solver | Open to Work
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sach791&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Sach791&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sach791&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Sach791&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sach791&layout=compact&theme=tokyonight"/>
+<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Sach791&layout=compact&theme=tokyonight"/>
 
 </p>
 
